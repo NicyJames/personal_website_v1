@@ -1,0 +1,15 @@
+/* Apply to the body for the entire page background */
+body {
+    background: radial-gradient(circle, #00b3b3, #ff8080);
+}
+
+
+
+.picture
+{
+    width: 450px;
+    height: 500px;
+}
+.font{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
